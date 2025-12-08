@@ -37,8 +37,11 @@
 ![](https://github-readme-stats-delta-drab-92.vercel.app/api/top-langs/?username=Noxoulos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
 [![](https://visitcount.itsvg.in/api?id=Noxoulos&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
